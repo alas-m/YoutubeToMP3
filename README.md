@@ -31,3 +31,22 @@ requests
 mutagen
 ffmpeg-python
 ```
+
+### 3. Set up your bot token
+Replace the ```TOKEN``` value inside the script with your own Telegram Bot API token:
+```bash
+TOKEN = "YOUR_BOT_API_TOKEN"
+```
+
+### 4. Run the bot
+```bash
+python main.py
+```
+
+## 🛠 Example
+1. Send any YouTube link to the bot.
+2. The bot downloads the audio, cleans the title, adds cover art & metadata.
+3. You receive a ready-to-play MP3 file in Telegram.
+
+## ⚖️ License
+This project is licensed under the MIT License.
