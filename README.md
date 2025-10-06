@@ -13,8 +13,8 @@ A simple and elegant Telegram bot that converts YouTube videos into MP3 audio fi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/youtube-to-mp3-bot.git
-cd youtube-to-mp3-bot
+git clone https://github.com/alas-m/YoutubeToMP3.git
+cd YoutubeToMP3
 ```
 
 ### 2. Install dependencies
